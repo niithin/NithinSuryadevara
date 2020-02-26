@@ -84,7 +84,7 @@ header ul{
 .skills{
     width: 60%;
     margin: 0 auto;
-    padding: 40px 0;
+    padding: 30px 0;
     text-align: center;
     z-index: 99;
 }
@@ -204,17 +204,17 @@ header ul{
 }
 
 .contact{
-    margin-top: 15%;
+    margin-top: 12%;
 }
 
 .experience{
-    margin-top: 15%;
+    margin-top: 12%;
 }
 .project{
-    margin-top: 15%;
+    margin-top: 12%;
 }
 .skills{
-    margin-top: 15%;
+    margin-top: 12%;
 }
 
 
