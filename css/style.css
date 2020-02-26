@@ -36,7 +36,6 @@ header li a{
     text-transform: uppercase;
     text-decoration: none;
     margin: 0 40px;
-    visibility: hidden;
 }
 header ul{
     list-style-type: none;
@@ -51,7 +50,7 @@ header ul{
     text-transform:uppercase;
     text-shadow: 0 15px 20px #000000b0;
     margin-bottom: 0;
-    visibility: hidden;
+
 }
 
 .home h5{
@@ -63,7 +62,7 @@ header ul{
     display: inline-block;
     letter-spacing: 2px;
     border-radius: 2px;
-    visibility: hidden;
+
 }
 
 .section-title{
