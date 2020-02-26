@@ -29,7 +29,6 @@ header{
    text-align: center;
    padding: 25px 0;
    z-index: 99;
-    margin-bottom: 30%;
 }
 
 header li a{
@@ -204,6 +203,19 @@ header ul{
     background-image: url("../images/black-background-wood-i-e29da4-4k-hd-desktop-wallpaper-for-4k-ultra-hd-1024x640.jpg");
 }
 
+.contact{
+    margin-top: 30%;
+}
+
+.experience{
+    margin-top: 30%;
+}
+.project{
+    margin-top: 30%;
+}
+.skills{
+    margin-top: 30%;
+}
 
 
 
