@@ -46,10 +46,12 @@ header ul{
 }
 
 .home  h1{
-    font-size:68px;
+    font-size:50px;
     text-transform:uppercase;
     text-shadow: 0 15px 20px #000000b0;
     margin-bottom: 0;
+    font-family: 'Quantico', sans-serif ;
+    animation-delay: 0.9s;
 
 }
 
@@ -62,6 +64,8 @@ header ul{
     display: inline-block;
     letter-spacing: 2px;
     border-radius: 2px;
+    font-family: 'Caveat', sans-serif ;
+    animation-delay: 0.9s;
 
 }
 
