@@ -202,12 +202,10 @@ header ul{
     font-size: xx-large;
     color: white;
 }
-.contact-body{
-    background-image: url("../images/black-background-wood-i-e29da4-4k-hd-desktop-wallpaper-for-4k-ultra-hd-1024x640.jpg");
-}
 
 .contact{
     margin-top: 5%;
+    z-index: 10000;
 }
 
 .experience{
